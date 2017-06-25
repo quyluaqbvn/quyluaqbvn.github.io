@@ -11,20 +11,13 @@ image:
 
 # The Garden of Words OST - Soundtracks [Álbum Completo]
 
-A faint clap of thunder
-
-Clouded skies
-
-Perhaps rain comes
-
+A faint clap of thunder,
+Clouded skies,
+Perhaps rain comes,
 If so, will you stay here with me?
 
-
-A faint clap of thunder
-
-Even if rain comes not
-
-I will stay here
-
+A faint clap of thunder,
+Even if rain comes not,
+I will stay here,
 Together with you!
 
