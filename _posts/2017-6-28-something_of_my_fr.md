@@ -3,7 +3,7 @@ layout: post
 title: "Something of life!"
 description: "Nothing-->Everything."
 tags: [sample post, readability]
-modified: 2017-6-25
+modified: 2017-6-28
 image:
   background: 
 ---
